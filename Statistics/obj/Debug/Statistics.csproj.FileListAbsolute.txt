@@ -1,0 +1,10 @@
+C:\Users\Nastya\source\repos\Statistics\Statistics\bin\Debug\Statistics.exe.config
+C:\Users\Nastya\source\repos\Statistics\Statistics\bin\Debug\Statistics.exe
+C:\Users\Nastya\source\repos\Statistics\Statistics\bin\Debug\Statistics.pdb
+C:\Users\Nastya\source\repos\Statistics\Statistics\obj\Debug\Statistics.csprojResolveAssemblyReference.cache
+C:\Users\Nastya\source\repos\Statistics\Statistics\obj\Debug\Statistics.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\source\repos\Statistics\Statistics\obj\Debug\Statistics.exe
+C:\Users\Nastya\source\repos\Statistics\Statistics\obj\Debug\Statistics.pdb
+C:\Users\Nastya\source\repos\Statistics\Statistics\bin\Debug\MathNet.Numerics.dll
+C:\Users\Nastya\source\repos\Statistics\Statistics\bin\Debug\MathNet.Numerics.xml
+C:\Users\Nastya\source\repos\Statistics\Statistics\obj\Debug\Statistics.csproj.CopyComplete
